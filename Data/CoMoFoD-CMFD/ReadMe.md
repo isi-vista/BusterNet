@@ -16,9 +16,10 @@ This CoMoFoD-CMFD dataset folder contains the following things:
   - reproduce the results of using the number of correct detections (Table 3)
   - reproduce the BusterNet performance F1 scores
   - show qualitative results on the CoMoFoD-CMFD dataset
-* **CoMoFoD-CMFD.hd5** - the HDF dataset of CoMoFoD-CMFD samples
+* [***CoMoFoD-CMFD.hd5**](https://drive.google.com/file/d/1mefnKzSG6NodumeYWX08XYUHoud7RwZx/view?usp=sharing) - the HDF dataset of CoMoFoD-CMFD samples
   - both images and masks are included
   - data have already been preprocessed
   - see sample usage in **BusterNetOnCoMoFoD.ipynb**
+  - *NOT included, right click to download the dataset from Google drive
 * **GT_Mask.tar.gz** - the gzip tar file of CMFD 3-class masks
 * **ReadMe.md** - this file
