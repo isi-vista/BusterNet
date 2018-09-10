@@ -17,11 +17,11 @@ This CASIA-CMFD dataset folder contains the following things:
   - reproduce the results of using the pixel evaluation protocol-B (Table 2)
   - reproduce discernibility analysis results (Sec 5.5 in paper)
   - show qualitative results on the CASIA-CMFD dataset
-* [**CASIA-CMFD-Pos.hd5**](https://drive.google.com/file/d/1GSwex77B8cQ6nyTYOMffwex8Hry_L_x7/view?usp=sharing) - the HDF dataset of positive CASIA-CMFD samples
+* [***CASIA-CMFD-Pos.hd5**](https://drive.google.com/file/d/1GSwex77B8cQ6nyTYOMffwex8Hry_L_x7/view?usp=sharing) - the HDF dataset of positive CASIA-CMFD samples
   - both images and masks are included
   - data have already been preprocessed
-  - right click to download the dataset from Google drive
   - see sample usage in **BusterNetOnCASIA.ipynb**
+  - *NOT included, right click to download the dataset from Google drive
 * **GT_Mask.tar.gz** - the gzip tar file of raw positive masks
 * **negative_samples.ids** - the 1313 CASIA ids of negative samples
 * **negative_samples.unique.ids** - the 991 unique CASIA ids of negative samples
