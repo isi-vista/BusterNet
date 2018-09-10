@@ -18,9 +18,9 @@ This USCISI-CMFD dataset folder contains the following things:
 
 * **api.py** - USCISI-CMFD dataset API
 * **USCISI-CMFD Dataset** - USCISI-CMFD LMDB dataset 
-  * Two versions are provided, where the small one is of 40MB with 100 samples, and the full one is of 100GB with 100K samples. Please right click to download from the google drive.
-    * [***USCISI-CMFD-Small**](https://drive.google.com/file/d/14WrmeVRTf9T0umSW6I267zBrsmCjCEIQ/view?usp=sharing)
-    * [***USCISI-CMFD-Full**](to do)
+  * Two versions are provided. Please right click to download from the google drive.
+    * [***USCISI-CMFD-Small**](https://drive.google.com/file/d/14WrmeVRTf9T0umSW6I267zBrsmCjCEIQ/view?usp=sharing) - 100 samples, ~40MB
+    * [***USCISI-CMFD-Full**](to do) - 100K samples, ~100GB
   * After uncompressing the downloaded dataset, you should see the following files
     * **data.mdb** - sample LMDB data file
     * **samples.keys** - a file listing sample keys (each line is a key)
