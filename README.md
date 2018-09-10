@@ -13,13 +13,12 @@ In this repository, we release many paper related things, including
 ### Repo Organization
 The entire repo is organized as follows:
 
-- Data - host all datasets
+- **Data** - host all datasets
   - *CASIA-CMFD
   - *CoMoFoD-CMFD
-  - *USCISI-CMFD-Full
-  - USCISI-CMFD-Small
-- Model - host all model files
-- ReadMe.md - this file
+  - *USCISI-CMFD
+- **Model** - host all model files
+- **ReadMe.md** - this file
 
 Due to the size limit, we can't host all dataset in repo. For those large ones, we host them externally. *indicated dataset requires to be downloaded seperately. Please refer to the document of each dataset for more detailed downloading instructions.
 
